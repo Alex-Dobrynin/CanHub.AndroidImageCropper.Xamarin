@@ -5,8 +5,8 @@
     <version>2.1.0</version>
     <authors>Alex Dobrynin</authors>
     <owners>Alex Dobrynin</owners>
-    <projectUrl>https://github.com/IliyanPopov/ImageCropper.Forms</projectUrl>
-    <licenseUrl>https://github.com/IliyanPopov/ImageCropper.Forms/blob/master/licenseUrl.md</licenseUrl>
+    <projectUrl>https://github.com/Alex-Dobrynin/CanHub.AndroidImageCropper.Xamarin</projectUrl>
+    <licenseUrl>https://github.com/Alex-Dobrynin/CanHub.AndroidImageCropper.Xamarin/blob/master/LICENSE</licenseUrl>
     <requirelicenseUrlAcceptance>false</requirelicenseUrlAcceptance>
     <description>Xamarin Android binding lib for CanHub's Android-Image-Cropper</description>
     <summary>Xamarin Android plugin for crop and rotate images. It is binding library for CanHub's Android-Image-Cropper. https://github.com/CanHub/Android-Image-Cropper Supports Android 11</summary>
