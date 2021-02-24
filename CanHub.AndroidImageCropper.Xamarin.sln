@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanHub.AndroidImageCropper.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanHub.AndroidImageCropper.Droid", "CanHub.AndroidImageCropper.Droid\CanHub.AndroidImageCropper.Droid.csproj", "{27C561B7-AFD5-41FF-AA9C-B2A7CDFFD1B4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{16A96D5C-9CC9-45A8-82B5-097BAF8AD237}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
