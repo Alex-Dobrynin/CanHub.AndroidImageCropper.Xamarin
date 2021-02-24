@@ -105,13 +105,10 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="CanHub.AndroidImageCropper.Xamarin">
+      <Version>2.1.0</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CanHub.AndroidImageCropper.Xamarin\CanHub.AndroidImageCropper.Xamarin.csproj">
-      <Project>{335136d1-0c65-43f1-84ff-de33138898c9}</Project>
-      <Name>CanHub.AndroidImageCropper.Xamarin</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

@@ -5,3 +5,5 @@ Xamarin Android plugin for crop and rotate images. It is binding library for Can
 https://github.com/CanHub/Android-Image-Cropper 
 
 Supports Android 11
+
+The nuget package: https://www.nuget.org/packages/CanHub.AndroidImageCropper.Xamarin
